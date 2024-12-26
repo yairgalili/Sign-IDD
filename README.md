@@ -4,7 +4,7 @@ Source code for "Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Pr
 Install required packages using the requirements.txt file.
 
 # Reference
-If you use this code in your research, please cite the following papers(https://arxiv.org/abs/2412.13609):
+If you use this code in your research, please cite the following [papers](https://arxiv.org/abs/2412.13609):
 
 # Acknowledge
 
