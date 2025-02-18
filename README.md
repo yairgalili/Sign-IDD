@@ -8,8 +8,11 @@ pip install -r requirements.txt
 ```
 # Data
 PHOENIX14T
+
 We use the same data as the [Progressive Transformer](https://github.com/BenSaunders27/ProgressiveTransformersSLP/tree/master/Data/tmp).
+
 USTC-CSL
+
 Dataset will be released soon.
 
 # Training
