@@ -6,6 +6,7 @@ Install required packages using the requirements.txt file.
 # Reference
 If you use this code in your research, please cite the following [papers](https://arxiv.org/abs/2412.13609):
 
+```bibtex
 @article{tang2024sign,
   title={Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production},
   author={Tang, Shengeng and He, Jiayi and Guo, Dan and Wei, Yanyan and Li, Feng and Hong, Richang},
