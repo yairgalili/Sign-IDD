@@ -5,7 +5,15 @@ Install required packages using the requirements.txt file.
 ```text
 pip install -r requirements.txt
 ```
+# Training
+```text
+python __main__.py train ./Configs/Sign-IDD.yaml
+```
 
+# Inference
+```text
+python __main__.py test ./Configs/Sign-IDD.yaml
+```
 
 # Reference
 If you use this code in your research, please cite the following [papers](https://arxiv.org/abs/2412.13609):
