@@ -7,11 +7,11 @@ Install required packages using the requirements.txt file.
 pip install -r requirements.txt
 ```
 # Data
-<font size=5>PHOENIX14T=5</font>
+PHOENIX14T
 
 We use the same data as the [Progressive Transformer](https://github.com/BenSaunders27/ProgressiveTransformersSLP/tree/master/Data/tmp).
 
-<font size=5>USTC-CSL=5</font>
+USTC-CSL
 
 Dataset will be released soon.
 
