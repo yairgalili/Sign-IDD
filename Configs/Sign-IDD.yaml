@@ -18,7 +18,7 @@ training:
     learning_rate_min: 0.0002 # Learning rate minimum, when training will stop
     weight_decay: 0.0   # Weight Decay
     clip_grad_norm: 5.0   # Gradient clipping value
-    batch_size: 128    # Batch Size for training
+    batch_size: 64    # Batch Size for training
     scheduling: "plateau"   # Scheduling at training time (plateau, ...)
     patience: 7  # How many epochs of no improvement causes a LR reduction
     decrease_factor: 0.7  # LR reduction factor, after the # of patience epochs
