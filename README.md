@@ -26,6 +26,9 @@ python __main__.py train ./Configs/Sign-IDD.yaml
 python __main__.py test ./Configs/Sign-IDD.yaml
 ```
 
+# SLT Model
+
+
 # Reference
 If you use this code in your research, please cite the following [papers](https://arxiv.org/abs/2412.13609):
 
