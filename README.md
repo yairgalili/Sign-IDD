@@ -45,6 +45,13 @@ If you use this code in your research, please cite the following [papers](https:
 	booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
 	year={2020}
 }
+
+@inproceedings{camgoz2020sign,
+  author = {Necati Cihan Camgoz and Oscar Koller and Simon Hadfield and Richard Bowden},
+  title = {Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation},
+  booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2020}
+}
 ```
 
 
