@@ -27,8 +27,7 @@ python __main__.py test ./Configs/Sign-IDD.yaml
 ```
 
 # SLT Model
-https://github.com/NaVi-start/SLT
-
+We use the back translation [SLT](https://github.com/NaVi-start/SLT).
 # Reference
 If you use this code in your research, please cite the following [papers](https://arxiv.org/abs/2412.13609):
 
